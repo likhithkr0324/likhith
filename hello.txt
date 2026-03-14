@@ -1,1 +1,1 @@
-hello word
+In Python, the Hello World program is the most basic example used to understand the fundamentals of the language. It demonstrates how Python prints output to the screen.
